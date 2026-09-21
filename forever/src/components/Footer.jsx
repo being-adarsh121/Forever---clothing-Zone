@@ -39,7 +39,7 @@ const Footer = () => {
       <div>
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright 2025 @ anokha.com - All Right Reserved
+          Copyright 2026@ adarsh.com - All Right Reserved
         </p>
       </div>
     </div>
